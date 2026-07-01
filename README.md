@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.png" alt="Stock Portfolio Tracker banner" width="100%"/>
+![image alt](https://github.com/vivekrajput22/CodeAlpha_Stock-Portfolio-Tracker/blob/b1552dc253d7164c9251ba83f2d84282165fe80d/banner.png)
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
