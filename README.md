@@ -2,7 +2,7 @@
 
 <img src="images/banner.png" alt="Stock Portfolio Tracker banner" width="100%"/>
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://github.com/vivekrajput22/CodeAlpha_Stock-Portfolio-Tracker/blob/fdf83fa5ea90ef4df343891e3361e3f9718cd3ab/banner.png)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/Type-CLI%20Tool-orange?style=for-the-badge)
 
