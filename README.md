@@ -150,7 +150,9 @@ STOCK_PRICES = {
 | 📊 `portfolio_summary.csv` | Spreadsheet-friendly CSV with a total row |
 
 <div align="center">
-<img src="images/output_preview.png" alt="Sample CSV and TXT output preview" width="100%"/>
+  
+![image alt](https://github.com/vivekrajput22/CodeAlpha_Stock-Portfolio-Tracker/blob/545edc1814398beea231c4d2cb3bd448d58231a2/output_preview.png)
+
 </div>
 
 Both files are saved in the same folder where the script is run.
