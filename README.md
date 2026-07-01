@@ -27,7 +27,9 @@
 ## 🧠 How It Works
 
 <div align="center">
-<img src="images/flow_diagram.png" alt="Program flow diagram" width="100%"/>
+  
+![image alt](https://github.com/vivekrajput22/CodeAlpha_Stock-Portfolio-Tracker/blob/bbc021d98729221648759466304c45ea303eb5e7/flow_diagram.png)
+
 </div>
 
 ## 🔑 Key Concepts Used
