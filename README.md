@@ -73,7 +73,9 @@ python3 stock_portfolio_tracker.py
 ## 🎬 Example Session
 
 <div align="center">
-<img src="images/terminal_demo.png" alt="Terminal demo screenshot" width="650"/>
+  
+![image alt](https://github.com/vivekrajput22/CodeAlpha_Stock-Portfolio-Tracker/blob/b5c4b9149fe027c24f9488d3137ffc30e28880d5/terminal_demo.png)
+
 </div>
 
 <details>
